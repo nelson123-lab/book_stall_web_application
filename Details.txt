@@ -1,0 +1,17 @@
+Book stall project
+
+-Foreign keys are used to connect the tables.
+
+-Crtl + Enter for running the code in MSQL workbench.
+
+-mysql connector to connect database with python so that we can update and delete the books in database.
+
+-Flask is used for backend.
+-Flask is used for the backend, but it makes use of a templating language called Jinja2 
+which is used to create HTML, XML or other markup formats that are returned to the user via an HTTP request.
+-It is classified as a microframework because it does not require particular tools or libraries. 
+
+-The flask server made is only a local host. It won't work in the absence of my computer.
+
+-Watch and continue doing it.
+https://youtu.be/RsK70V-R2N0
